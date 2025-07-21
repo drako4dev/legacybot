@@ -16,8 +16,8 @@ module.exports = {
             .setTitle("🎉 ¡Gracias por tu compra!")
             .setDescription(`Aquí tienes acceso a la plantilla de Notion y al juego de cartas digital. ¡Disfrútalos!  
 
-            📥 **Enlace de descarga:** [Gamify Your Life](https://confusion-drain-6ec.notion.site/Gamify-Your-Life-1ae6fadb81818040ab90d1b13258cbe6)  
-            🎴 **Juego de cartas:** [Evolution Card Deck](https://www.figma.com/community/file/1481370663537477788)  
+            📥 **Enlace de descarga:** [Gamify Your Life]()  
+            🎴 **Juego de cartas:** [Evolution Card Deck]()  
 
             ⚠️ **IMPORTANTE:**  
             Como esta información es **confidencial**, si es filtrada, recibirás un **ban permanente sin posibilidad de apelación**.  
